@@ -4,7 +4,7 @@
 
 Brute force search for beer
 
-![alt tag](https://raw.githubusercontent.com/igorrendulic/OpenCVSift/master/screenshot_goal.jpg)
+![alt tag](https://raw.githubusercontent.com/igorrendulic/OpenCVSift/master/screenshot_goal.png)
 
 ## Requirements
 
