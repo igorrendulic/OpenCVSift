@@ -3,7 +3,6 @@
 ## Requirements
 
 - [Install Anaconda](https://www.continuum.io/downloads) 
-- [Install Python Jupyter](http://jupyter.readthedocs.io/en/latest/install.html#installing-jupyter-using-anaconda-and-conda)
 
 ## Create environment
 ```
@@ -24,7 +23,7 @@ conda install -c menpo opencv3
 ```
 jupyter notebook
 ```
-Browser should open up Jupyter Notebook which should already include sift_example.npy
+Browser should open up Jupyter Notebook which should already contain sift_example.ipynb notebook.
 
 
 
