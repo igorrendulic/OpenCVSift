@@ -1,5 +1,11 @@
 # OpenCV Sift Example with Anaconda and Jupyter
 
+# Goal
+
+Brute force search for beer
+
+![alt tag](https://raw.githubusercontent.com/igorrendulic/OpenCVSift/master/beer.jpg)
+
 ## Requirements
 
 - [Install Anaconda](https://www.continuum.io/downloads) 
