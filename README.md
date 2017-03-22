@@ -4,9 +4,9 @@
 
 Brute force search for beer
 
-![alt tag](https://raw.githubusercontent.com/igorrendulic/OpenCVSift/master/screenshot_goal.png)
+![Final Result of Example](https://raw.githubusercontent.com/igorrendulic/OpenCVSift/master/screenshot_goal.png)
 
-## Requirements
+# Requirements
 
 - [Install Anaconda](https://www.continuum.io/downloads) 
 
@@ -15,7 +15,7 @@ Brute force search for beer
 conda create -n siftexample python=2.7 --file req.txt
 ```
 
-### Start Anaconda Environment
+Start Anaconda Environment
 ```
 conda activate siftexample
 ```
@@ -25,7 +25,7 @@ Install openCV 3:
 conda install -c menpo opencv3
 ```
 
-# Start Jupyter Notebook
+## Start Jupyter Notebook
 ```
 jupyter notebook
 ```
