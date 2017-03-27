@@ -17,7 +17,7 @@ conda create -n siftexample python=2.7 --file req.txt
 
 Start Anaconda Environment
 ```
-conda activate siftexample
+source activate siftexample
 ```
 
 Install openCV 3:
